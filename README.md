@@ -1,2 +1,2 @@
 # Article
-### What is it Lifecycle in React ?
+###### What is it Lifecycle in React ?

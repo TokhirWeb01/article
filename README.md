@@ -13,7 +13,6 @@ yoki biror bir texnikaning ishlash tartibiga. <br/> Lekin boshqa Lifecycle larda
 Shu bilan birga har bir <code>React Component Lifecycle</code> Metodlarining o'zlarini ham alohida metodlari (_children methods_) bor. <br/>
 ***Mount***: <code>constructor function</code> <code>render</code> <code>componentDidMount</code> <br> 
 _Mountning ishlash tartiblari_ - Birinchi "_constructor function_ " ishlasa undan so'ng "_render_ " va "_componentDidMount_ " <br>
-Odatda <code>componentDidMount(){}</code> Ajax Request jo'natishda qo'l keladi! <br> 
-<img src="">  <br> <br>
-***Update***: <code>render</code> <code>componentDidUpdate</code> <br>
+Odatda <code>componentDidMount()</code> Ajax Request jo'natishda qo'l keladi! <br> <br>
+***Update***: <code>render</code> <code>componentDidUpdate</code> <br> <br>
 ***Unmount***: <code>componentWillUnmount</code> <br>
